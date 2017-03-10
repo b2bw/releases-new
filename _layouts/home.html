@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div class="section top-section js-current-panel clearfix">
+
+
+  {% for post in site.categories.introduction %}
+
+  <div class="section-content">
+    <div class="section-title">
+      <h1>{{ post.title | escape }}</h1>
+    </div>
+    {{ post.excerpt }}
+    {% for link in post.subsite %}
+      <a class="bos-button info hollow" id="{{post.title | downcase | slugify }}-end" href="{{ post.url | relative_url }}">Mehr erfahren &raquo;</a>
+    {% endfor %}
+  </div>
+  {% endfor %}
+
+
+</div>
+<div class="svg lt">
+{% include leaves.svg %}
+</div>
+
+{% for post in site.categories.body %}
+  <div class="section {% cycle 'dark','light' %} clearfix" id="{{post.title | downcase | slugify }}">
+    <div class="section-title">
+      <h2>{{ post.title | escape }}</h2>
+    </div>
+    <div class="section-content">
+      {{ post.excerpt }}
+      {% for link in post.subsite %}
+        <a class="bos-button info hollow" id="{{post.title | downcase | slugify }}-end" href="{{ post.url | relative_url }}">Mehr erfahren &raquo;</a>
+      {% endfor %}
+    </div>
+
+
+    </div>
+  </div>
+  <div class="svg {% cycle 'drk','lt' %}">
+    {% include leaves.svg %}
+  </div>
+{% endfor %}
+
+{% include down %}

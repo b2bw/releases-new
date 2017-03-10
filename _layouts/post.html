@@ -1,0 +1,16 @@
+---
+layout: default
+---
+{% assign link={{page.title}} | escape | downcase | slugify %}
+<article class="section" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="section-header">
+    <h2 class="post-title" itemprop="name headline">{{ page.subsite-header | escape }}</h2>
+  </div>
+  <div class="section-content" itemprop="articleBody">
+      {{ content | remove:page.excerpt }}
+        <a href="{{ '/index.html' | escape | relative_url | append: "#" | append: link | append: '-end' }}">
+
+          <button class="bos-button large info float-left space-right">&laquo; zurück</button>
+        </a>
+  </div>
+</article>

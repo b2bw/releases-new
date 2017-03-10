@@ -1,0 +1,80 @@
+$main-button-color: $earthy7;
+
+// $main-button-color: $fun5;
+
+.bos-button {
+    // @include button-style;
+    //
+    // @include button-hollow;
+    display: inline-block;
+    margin-bottom: 12px;
+    padding: 12px;
+    color: $main-button-color;
+    border: 3px solid $main-button-color;
+    font-weight: 700;
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    letter-spacing: .075rem;
+    transition: .2s all;
+
+    @mixin media-query($on-desktop) {
+        padding: 24px;
+
+        // @include button-expand;
+
+        &.space-left {
+            margin-left: 12px;
+        }
+    }
+
+
+    svg {
+        fill: currentColor;
+        width: 36px;
+        height: 36px;
+        vertical-align: middle;
+        margin-right: 12px;
+    }
+
+    &:hover {
+        background: $main-button-color;
+        text-decoration: none;
+        // background: $earthy3;
+        // border-color: $earthy3;
+
+    }
+
+    &.info {
+      font-family: "Raleway";
+        color: #666;
+        border-color: #666;
+        background: none;
+        &:hover {
+            background: #666;
+            color: white;
+        }
+    }
+
+    &.donate {
+      color: white;
+      border-color: white;
+      background: none;
+      &:hover {
+        background: $bright-green;
+        color: white;
+        border-color: $bright-green;
+      }
+    }
+}
+
+.subscribe-button {
+  background: none;
+  width: 100%;
+  &:hover {
+    color: white;
+  }
+}
+
+.bos-button .donate-amount {
+  float: right;
+}

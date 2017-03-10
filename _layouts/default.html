@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+  {% include head.html %}
+  <body class="{{page.bodyclass}}">
+    {% include leaves.svg id="leaves" %}
+
+    <div class="hide">
+
+      {% include svg.svg %}
+    </div>
+    {% include header.html %}
+    <main class="page-content" aria-label="Content">
+      {{ content }}
+    </main>
+    {% include footer.html %}
+    {% if page.title == "Born To Be Wild" %}
+      <script src="{{ "/js/app.js" | relative_url }}" charset="utf-8"></script>
+    {% endif %}
+    {% include menu %}
+  </body>
+</html>
