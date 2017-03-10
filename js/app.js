@@ -33,7 +33,9 @@ $('.js-next').click(function(e) {
 	e.preventDefault();
 });
 
-
+$(document).ready(function(e) {
+    alert("this shit workin")
+ });
 
 
 //toggle help
