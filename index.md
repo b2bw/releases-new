@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Born To Be Wild
+title: Born To Be Template
 currentAmount: 1490
 topvideoID: yKWf7h5AJ-0
 subtitle: Orang-Utans in die Freiheit
