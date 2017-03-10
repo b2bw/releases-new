@@ -8,42 +8,31 @@ tags: subsite
 subsite: link
 subsite-header: BOSF Entstehungsgeschichte
 ---
-Mit meiner Kampagne unterstütze ich die Borneo Orangutan Survival Association Schweiz, die sich seit Jahren der oben beschrieben Problematik widmet und der BOSF in Indonesien zuarbeitet. Das Ziel beider Organisation ist der Schutz und der Erhalt der Orang-Utans und ihres Lebensraumes in Borneo. Dort betreibt die BOSF zu diesem Zweck das weltweit grösste Primatenschutzprogramm. In zwei Auffangstationen finden verwaiste, verwundete, und illegal als Haustiere gehaltene Orang-Utans Zuflucht. Jahrelang werden sie rehabilitiert und auf die Freiheit vorbereitet, bevor sie wieder auswildert werden.
+Freiheit üben: Pre-Release Aktivitäten
+Für unsere Pre-Release Aktivitäten nutzen wir i.d.R. Flussinseln, die für regelmässige Kontrollen gut zugänglich sind (d.h. nahe oder innerhalb unserer Rettungsstationen liegen). Die Auswilderungskandidaten können über das Wasser nicht entkommen und dort einige Wochen vor ihrer Auswilderung die Freiheit üben. Den „Inselbewohnern" bieten wir so ein natürliches Umfeld, in dem sie sich im Nestbau üben oder selbständig nach wilden Früchten suchen können. Pfleger bringen nur noch zweimal am Tag zusätzliches Futter und überwachen die Auswilderungskandidaten. Durch das Zusammenleben mit anderen Orang-Utans auf der Insel lernen die Tiere ausserdem voneinander.
 
-![](/uploads/2017/03/04/BOS_9089%20copy%20by%20Indrayana.jpg)
 
-Dass die BOSF ihr eigenes Schutzprogramm unterhält und dabei den kompletten Zyklus (von der Rettung bis zur Auswilderung) abdeckt, überzeugt mich genauso wie ihr ganzheitlicher Ansatz: Mit den dörflichen Gemeinschaften nahe der Schutzgebiete führt die BOSF Projekte zur nachhaltigen und umweltverträglichen Einkommensgenerierung durch oder unterstützt Vorhaben im Gesundheits- und Bildungsbereich.
+Im Falle unserer Rettungsstation in Samboja Lestari (in Ost-Kalimantan) mussten künstliche Pre-Release Inseln angelegt werden. Unsere zweite Rettungsstation in Nyaru Menteng unterhielt bereits vier kleine Pre-Release Inseln (die Platz für max. 90 Orang-Utans boten), als die BOSF im Februar/März 2015 eine weitere natürliche Flussinsel als Übungsgebiet dazugewinnen konnte. Das 655 ha grosse Gebiet auf der Insel „Salat Island“ ist nur eineinhalb Stunden mit dem Auto von der Rettungsstation in Nyaru Menteng entfernt und vom nächsten Dorf aus per Boot innerhalb von 30 Minuten erreichbar. Auch die Vegetation der Insel ist viel versprechend: 19 der 26 ansässigen Pflanzenarten gehören zum festen Speiseplan der Orang-Utans.
 
-![](/uploads/2017/03/04/family.jpg)
 
-Die BOSF leistet Öffentlichkeits- und Aufklärungsarbeit, unterstützt die Rückführung von ins Ausland verschleppten Orang-Utans und verwaltet und überwacht mehrere Schutzgebiete, die sie für Auswilderungen nutzt oder wo sie Aufforstung betreibt. Hierzu zählt auch das Mawas Gebiet, das eine der grössten wilden Orang-Utan Populationen (mit ca. 3000 Tieren) beheimatet.
+Mittlerweile ist es gelungen, die letzten bürokratischen Hürden vor Ort aus dem Weg zu räumen. Ausserdem konnte das Übungsgebiet im Oktober 2016 durch eine Zuwendung der RSPO zertifizierten Firma PT. Sawit Sumbermas Sarana (SSMS) um eine riesige Fläche erweitert werden. Der BOS Stiftung stehen dort nunmehr 2,089 ha für Pre-Release Aktivitäten zur Verfügung – eine Fläche, die zeitgleich bis zu 200 Orang-Utans einen ersten Vorgeschmack auf die Freiheit geben kann. Auch eine Gruppe kranker und körperlich beeinträchtigter Orang-Utans, die nicht mehr ausgewildert werden können, findet auf Salat Island eine neue Heimat.
 
-![](/uploads/2017/03/04/16.JPG)
+MEHR ERFAHREN »
 
-Vor Ort beschäftigt die BOSF über 400 Mitarbeitende. Sie ist damit zu einem wichtigen Arbeitgeber in der Region geworden und bietet der Bevölkerung eine Alternative zur Anstellung auf einer Ölpalmplantage – und damit eine Alternative zum Raubbau an der Natur.
+Innerhalb von nur wenigen Wochen wurden Ende 2016 vier Fütterungsplattformen und zwei Anlegestege errichtet, ein kleines Büro im Dorf Pilang aufgebaut und drei Motorboote für den Transport der Tiere erworben. Auch eine schwimmende Ranger Station wurde gebaut, die per Boot dorthin bewegt werden kann, wo sie tatsächlich benötigt wird. Anfang November 2016 konnten die ersten 12 Orang-Utans (7 Weibchen und 5 Männchen) nach Salat Island umziehen. Sie werden permanent von BOS Mitarbeitenden überwacht und es geht ihnen soweit sehr gut. Bis August 2017 plant die BOS Stiftung u.a. den Bau zusätzlicher Fütterungsplattformen, den Ausbau der Kanäle und den Erwerb eines Geländewagens und weiterer Boote. In naher Zukunft werden wir also mit Sicherheit den Transfer vieler Orang-Utans nach Salat Island beobachten dürfen, die gründlich auf diesen Moment vorbereitet wurden und lange darauf gewartet haben!
 
-![](/uploads/2017/03/04/DSCN0376-1.jpg)
 
-**Die BOSF heute: Zahlen und Fakten**
+Nicht nur die Orang-Utans müssen für die Auswilderung parat sein. Es braucht auch passende Waldgebiete - kein einfaches Unterfangen, denn nicht jeder Regenwald ist für Orang-Utan Auswilderungen geeignet. Zunächst schätzt ein BOS Expertenteam die Qualität und Aufnahmekapazität eines potentiellen Auswilderungsgebietes ab. Mittels Satellitenbildern und Konzessionskarten wird nach Habitattypen, Waldanteilen, Baumbestand, Höhenlagen (Orang-Utans leben kaum oberhalb von 900 Meter Höhe), Landnutzungsarten, Besitzverhältnissen und Infrastruktur kartiert. Für die Auswilderung von Orang-Utans müssen folgende Mindestanforderungen erfüllt sein: Das Gebiet muss gross genug und langfristig geschützt sein, es darf keine größere Orang-Utan-Population vorhanden sein, der Wald muss im ursprünglichen Verbreitungsgebiet der jeweiligen Unterart liegen und es muss genügend Nahrung (d.h. vor allem Flügelfruchtbäume) geben.
 
-Bis heute rettete die BOSF knapp 2000 Orang-Utans aus sehr prekären Situationen. Wenn möglich werden die Tiere direkt umgesiedelt. Viele müssen jedoch gesund gepflegt und auf ein Leben in Freiheit vorbereitet werden. Im Schnitt dauert es sieben Jahre, bis die Orang-Utans im Waldkindergarten und der Waldschule alle Fähigkeiten erworben haben, die sie sonst von ihren Müttern lernen würden und die sie für ein Überleben in freier Wildbahn brauchen.
 
-![](/uploads/2017/03/04/16%20December%202016%20-%20Valentino,%20Svenja,%20Beni,%20Madara,%20Tomang,%20and%20Vale%20by%20Indrayana-1.jpg)
+In einem nächsten Schritt müssen die Besitzverhältnisse geklärt werden. Die BOSF tritt mit den Konzessionshaltern (d.h. mit Holzfirmen, Palmölkonzernen oder der lokalen Bevölkerung) in Verhandlungen oder nimmt Kontakt mit staatlichen Behörden auf, um in bestehende Schutzgebiete auszuwildern oder eigene Schutzkonzessionen zu erwerben. Allen politischen Ebenen (von der Zentral- bis zur Bezirks-Regierung) muss das Projekt nahe gebracht werden und die erforderlichen Genehmigungen eingeholt werden.
 
-Aktuell befinden sich über 750 Orang-Utans in den beiden Rettungsstationen. Hunderte Orang-Utans konnten bereits in geschützte Waldgebiete ausgewildert werden und hunderte werden noch folgen. Lange Zeit war der Mangel an geeigneten Auswilderungsgebieten der Grund, wieso rehabilitierte Tiere nicht in die Freiheit entlassen werden konnten. Dann konnte die BOSF langfristige Nutzungsrechte für zwei unberührte Regenwaldgebiete (Bukit Batikap in Zentral-Kalimantan und Kehje Sewen in Ost-Kalimantan) erwerben. Aktuell nutzt die BOSF ein weiteres Waldgebiet (den BBBR Nationalpark) für Auswilderungen in Zentral-Kalimantan.
+Unverzichtbar ist auch die rechtzeitige Aufklärung lokaler Vertreter, denn ohne die Zustimmung der Menschen vor Ort wären Auswilderungen zum Scheitern verurteilt. Die BOSF klärt vorab, wo Interessenskonflikte entstehen könnten. Ausserdem unterstützen wir die ansässigen Dorfgemeinschaften dabei, nachhaltige und umweltverträgliche Einkommensquellen zu schaffen, sowie Gesundheits- und Bildungsprojekte, Umwelt- oder Naturschutzvorhaben umzusetzen. So entstehen Partnerschaften, die den langfristigen und nachhaltigen Erfolg der Auswilderungen sichern.
 
-![](/uploads/2017/03/04/BOS_Working_Areas.jpg)
+Bild?
 
-Seit 2012 - und insbesondere in diesem Jahr - liegt der Fokus der BOS Aktivitäten wieder auf den Auswilderungen. In den letzten 4 Jahren wurden knapp 250 Orang-Utans in die Freiheit entlassen; 100 Auswilderungen sind allein für 2017 geplant.
+Sind die Auswilderungsgebiete identifiziert und gesichert, muss dort die nötige Infrastruktur aufgebaut werden. Dazu gehören ein kleines Büro in der nächstgrößeren Stadt, eine Forschungs- und Basisstation, Zugangswege, der Kauf oder das Anmieten von Fahrzeugen, sowie die Anschaffung und Installation von Kommunikationseinrichtungen. Außerdem muss für alle anfallenden Tätigkeiten qualifiziertes Personal eingestellt und teilweise ausbildet werden.
 
-![](/uploads/2017/03/04/-%20Sawa%20dan%20Sawi.jpg)
+Unterstützen Sie uns bei diesen Vorbereitungen für die Auswilderungen, spenden Sie für unsere Pre-Release Aktivitäten oder werden Sie anderweitig aktiv!
 
-<!--more-->
-
-Die Geschichte der BOSF begann 1989, als der niederländische Forstwissenschaftler Dr. Willie Smits auf einem Markt in der Stadt Balikpapan auf Borneo ein verwaistes Orang-Utan-Baby in einer Mülltonne fand. Smits nannte das Orang-Utan-Weibchen Uce und pflegte es gesund. Daraufhin wurden immer mehr Orang-Utans zu ihm gebracht.
-
-![](/uploads/2017/03/04/Mema%20DSC_6616%20copy-1.jpg)
-
-Mit Hilfe einer Initiative indonesischer Schulkinder konnte genügend Geld gesammelt werden, um 1991 die erste Rettungs- und Rehabilitationsstation (heute Samboja Lestari) in der Provinz Ost-Kalimantan aufzubauen. Im Jahr 1991 gründete Smits die BOSF. Uce wurde 1994 ausgewildert und hat inzwischen mehrmals Nachwuchs bekommen. Nachdem 1997/98 hunderte Orang-Utans verheerenden Waldbränden zum Opfer fielen, war die Aufnahmekapazität der Station in Samboja Lestari schnell erschöpft. Daher wurde 1999 eine zweite Station in Nyaru Menteng, Zentral-Kalimantan eröffnet.
-
-![](/uploads/2017/03/04/6%20Mei%20-%20Napri%20by%20Indrayana.JPG)
+{% include action-buttons.html %}

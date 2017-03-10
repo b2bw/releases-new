@@ -16,9 +16,9 @@
 title: BOS Schweiz
 email: support@bos-schweiz.ch
 description: > # this means to ignore newlines until "baseurl:"
-  Armut und Orang-Utan Schutz: Was hat das miteinander zu tun?
-  Viel, denn Unterentwicklung und Ausgrenzung sind wichtige Gründe für Wilderei und Raubbau an der Natur.
-baseurl: "/template" # the subpath of your site, e.g. /blog
+  Klappe auf, Affe raus!?
+  Ganz so einfach ist es leider nicht…
+baseurl: "/releases" # the subpath of your site, e.g. /blog
 url: "http://bos-schweiz.ch" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
